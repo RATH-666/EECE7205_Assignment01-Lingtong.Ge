@@ -26,6 +26,7 @@
 cd cpp
 g++ -std=c++17 -Wall -Wextra Assignment01_Ge.cpp -o assignment01
 ./assignment01
+```
 
 The program displays a menu. Enter the number of the problem you want to run.
 
